@@ -1,3 +1,7 @@
 Testing new push
+<<<<<<< HEAD
 Testing conflict 2
 
+=======
+aoiwdaow
+>>>>>>> conflict-2
